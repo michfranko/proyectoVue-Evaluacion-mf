@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "fir-pruebaweb-3a9f8",
     "public": "dist",
     "ignore": [
       "firebase.json",
